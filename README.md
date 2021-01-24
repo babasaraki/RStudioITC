@@ -21,7 +21,7 @@ Training materials for RStudio Instructor Training and Certification by RStudio 
 
 ## Approved Topic for teaching exam
 
-Graphics with ggplot2 in R  
+[Graphics with ggplot2 in R](https://github.com/babasaraki/rstudio-instructor-certification-)
 
 
 ## Reading materials 
