@@ -34,7 +34,8 @@ Training materials for RStudio Instructor Training and Certification by RStudio 
 ### Tiyverse 
 
 * [R for Data Science](https://r4ds.had.co.nz/) 
-* [Exercises and solutions of R4DS](https://jrnold.github.io/r4ds-exercise-solutions/)    
+* [Exercises and solutions of R4DS](https://jrnold.github.io/r4ds-exercise-solutions/) 
+* [Questions and answers](https://rpubs.com/gbganalyst/tidyverse-sample-exam)
 * [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/)
 
 
