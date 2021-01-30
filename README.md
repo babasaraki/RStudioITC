@@ -30,6 +30,7 @@ Training materials for RStudio Instructor Training and Certification by RStudio 
 
 * [Teaching Tech Together](https://teachtogether.tech/)
 * [Full course material](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY)
+* [Concept maps](https://docs.google.com/presentation/d/1I3ZBKDrMEulzWFrIkeq_xPM4sn85CtkXPisHgCn7OdA/edit#slide=id.p)
 
 ### Tiyverse 
 
